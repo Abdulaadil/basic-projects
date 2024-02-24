@@ -1,0 +1,6 @@
+print("welcome to the band")
+name = input("enter the city name that you grew up\n")
+print("name")
+pet = input("Enter the pet name\n")
+print("pet")
+print("your new band name is "+name+" "+pet)
